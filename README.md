@@ -72,7 +72,7 @@ curl "http://localhost:7000/v1/latest_block"
 
 ```
 
-##  Form doldurmayı unutmayın
+##  Form doldurmayı unutmayın !!!
 * [Avail Light Node Form](https://docs.google.com/forms/d/e/1FAIpQLSeL6aXqz6vBbYEgD1cZKaQ4vwbN2o3Rxys-wKTuKySVR-oS8g/viewform)
 
 ## Linkler:
